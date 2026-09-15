@@ -8,7 +8,7 @@
 ### // Skills
 ├── Engines       : Godot Engine, Unigine Engine, Unreal Engine 5, Unity, Phaser <br>
 ├── Languages     : C++, C#, Python, JavaScript<br>
-├── Shading & GPU : HLSL / GLSL Shaders, Compute Shaders<br>
+├── Shading & GPU : HLSL / GLSL Shaders<br>
 └── Art & 3D      : Blender, 3D Modeling & Animation<br>
 
 ### // Find Me Elsewhere
