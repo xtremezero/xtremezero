@@ -1,8 +1,3 @@
-<h1 align="center">XtremeZero</h1>
-<p align="center">
-  <strong>Game Developer & Artist</strong>
-</p>
-
 <p align="center">
   <a href="https://xtremezero.net/my_portfolio"><img src="https://img.shields.io/badge/Portfolio-xtremezero.net-lightgrey?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://xtremezero.itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io"/></a>
