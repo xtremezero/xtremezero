@@ -1,11 +1,10 @@
 <p align="center">
   <a href="https://xtremezero.net/my_portfolio"><img src="https://img.shields.io/badge/Portfolio-xtremezero.net-lightgrey?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://xtremezero.itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io"/></a>
-  <a href="https://store.steampowered.com/curator/46170602"><img src="https://img.shields.io/badge/Steam-Curator-171a21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/></a>
+  <a href="https://store.steampowered.com/curator/46170602"><img src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white" alt="Steam"/></a>
   <a href="http://youtube.com/xtremezero"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="https://discordapp.com/channels/1529189276590407913/1529189278293430434"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
-
 ### // Skills
 ├── Engines       : Godot Engine, Unigine Engine, Unreal Engine 5, Unity, Phaser <br>
 ├── Languages     : C++, C#, Python, JavaScript<br>
