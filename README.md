@@ -6,17 +6,17 @@
   <a href="https://discordapp.com/channels/1529189276590407913/1529189278293430434"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
 
-### ⚡ // Skills
+### // Skills
 ├── Engines       : Godot Engine, Unigine Engine, Unreal Engine 5, Unity, Phaser <br>
 ├── Languages     : C++, C#, Python, JavaScript<br>
 ├── Shading & GPU : HLSL / GLSL Shaders, Compute Shaders<br>
 └── Art & 3D      : Blender, 3D Modeling & Animation<br>
 
-### 🌐 // Find Me Elsewhere
+### // Find Me Elsewhere
 
-* 🌐 **Portfolio:** [xtremezero.net/my_portfolio](https://xtremezero.net/my_portfolio)
-* 📄 **Resume:** [xtremezero.net/resume](http://xtremezero.net/resume)
-* 🕹️ **Itch.io:** [xtremezero.itch.io](https://xtremezero.itch.io)
-* 🚂 **Steam Curator:** [Steam Page](https://store.steampowered.com/curator/46170602)
-* 🎥 **YouTube:** [@xtremezero](http://youtube.com/xtremezero)
-* 💬 **Discord:** [Join Server](https://discordapp.com/channels/1529189276590407913/1529189278293430434)
+* **Portfolio:** [xtremezero.net/my_portfolio](https://xtremezero.net/my_portfolio)
+* **Resume:** [xtremezero.net/resume](http://xtremezero.net/resume)
+* **Itch.io:** [xtremezero.itch.io](https://xtremezero.itch.io)
+* **Steam:** [Steam Page](https://store.steampowered.com/curator/46170602)
+* **YouTube:** [@xtremezero](http://youtube.com/xtremezero)
+* **Discord:** [Join Server](https://discordapp.com/channels/1529189276590407913/1529189278293430434)
