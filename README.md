@@ -18,6 +18,6 @@
 * **Portfolio:** [xtremezero.net/my_portfolio](https://xtremezero.net/my_portfolio)
 * **Resume:** [xtremezero.net/resume](http://xtremezero.net/resume)
 * **Itch.io:** [xtremezero.itch.io](https://xtremezero.itch.io)
-* **Steam:** [Steam Page](https://store.steampowered.com/curator/46170602)
+* **Steam:** [Steam Page](https://store.steampowered.com/developer/XtremeZero/)
 * **YouTube:** [@xtremezero](http://youtube.com/xtremezero)
 * **Discord:** [Join Server](https://discordapp.com/channels/1529189276590407913/1529189278293430434)
