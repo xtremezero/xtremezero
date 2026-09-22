@@ -5,7 +5,9 @@
   <a href="http://youtube.com/xtremezero"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="https://discordapp.com/channels/1529189276590407913/1529189278293430434"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
-// Skills
+
+### // Skills
+
 * **Engines:**       : Godot Engine, Unigine Engine, Unreal Engine 5, Unity, Phaser <br>
 * **Programming:**     : C++, C#, Python, JavaScript<br>
 * **Technical Art:** : HLSL / GLSL Shaders<br>
